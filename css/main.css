@@ -1,0 +1,108 @@
+.bg01{
+    width: 89%;
+    height: auto;
+    padding: 10px;
+    background-color: #326b99;
+    box-shadow: 5px 5px 5px gray;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: absolute;
+    left: calc(50% - 91% / 2);
+    top: 10px;
+}
+
+.text01{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg02{
+    width: 90%;
+    height: auto;
+    padding: 10px;
+    background-color: #0c4468;
+    box-shadow: 5px 5px 5px gray;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: relative;
+    top: 80px;
+    line-height: 20px;
+}
+
+.text02{
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.var{
+    width: 90%;
+    padding: 15px;
+    background-color: #093152;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+    position: relative;
+    top: 110px;
+    left: calc(50% - 90% / 2);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+
+.tittle{
+    color: whitesmoke;
+    text-align: left;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 15px 0 0 70px;
+}
+
+span{
+    color: #ffc8c8;
+    padding-left: 15px;
+    font-size: 16px;
+    text-shadow: 5px 5px 5px rgb(50, 108, 135);
+}
+
+.img{
+    width: 90%;
+    margin: 15px auto;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+.text03{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 15px 0 0 0;
+    font-weight: 600;
+}
+
+p{
+    color: #ffc8c8;
+    font-size: 16px;
+    text-shadow: 5px 5px 5px rgb(50, 108, 135);
+    padding: 0 40px 0 5px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
